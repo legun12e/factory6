@@ -21,3 +21,6 @@ This code developed and tested under ruby 2.0.0p247. As long as you have ruby 1.
 
 1. `ruby test/run_all.rb`
 
+git add REAME.md
+git commit -m "Updated the Readme to Provide in formation"
+git push
